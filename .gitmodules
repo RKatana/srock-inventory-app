@@ -1,6 +1,8 @@
 [submodule "inventory-app-django"]
 	path = inventory-app-django
 	url = https://github.com/RKatana/inventory-app-django.git
+	branch = development
 [submodule "inventory-app-android"]
 	path = inventory-app-android
 	url = https://github.com/RKatana/inventory-app-android.git
+	branch = development
